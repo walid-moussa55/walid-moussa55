@@ -11,11 +11,7 @@ Passionate about artificial intelligence, model architectures, and building impa
 
 ## 🚀 Favorite Projects
 
-### [SmartTrash](https://github.com/walid-moussa55/SmartTrash)
-> Optimisez la gestion urbaine des déchets grâce à la donnée et à l’intelligence artificielle !  
-> *A smart urban waste management project powered by data and AI.*
 
-- Main stack: Dart, Python, HTML, C++, JavaScript, Swift
 
 ### [CompSim](https://github.com/walid-moussa55/CompSim)
 > *A project leveraging JavaScript, HTML, and CSS to simulate computational systems and concepts.*
