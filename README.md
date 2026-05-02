@@ -26,7 +26,7 @@ Passionate about artificial intelligence, model architectures, and building impa
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/oualid-ait-moussa-180524305/)
+- [LinkedIn](https://www.linkedin.com/in/walid-ait-moussa-180524305)
 
 ---
 
