@@ -3,6 +3,8 @@
 **Student in AI & Developer**  
 Passionate about artificial intelligence, model architectures, and building impactful solutions.
 
+**💼 [My Portfolio](https://walid-moussa55.github.io/wam55/)**
+
 ## 👨‍💻 About Me
 - 🎓 AI student and developer
 - 💡 Skilled in **Python**, **C/C++**, and **Web Development**
