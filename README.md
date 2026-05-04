@@ -19,6 +19,7 @@ Passionate about artificial intelligence, model architectures, and building impa
 > *A project leveraging JavaScript, HTML, and CSS to simulate computational systems and concepts.*
 
 - Main stack: JavaScript, HTML, CSS
+- 🌍 [Go to ](https://walid-moussa55.github.io/CompSim/)
 
 ## 🛠️ Skills
 - **Programming:** Python, C/C++, JavaScript, Dart, HTML, CSS
